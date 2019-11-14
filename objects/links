@@ -1,0 +1,27 @@
+/*--------LINK WITHIN WEBPAGE---------*/
+
+/*-----TOP OF PAGE------*/
+  <article id="top">
+  -
+  -
+  -
+  -
+  -
+  <a href #top >Top </a>
+  
+/*--------LINK WITHIN LIST----------*/
+<nav>
+<ul>
+  <li><a href="#the-man">
+    The Man</a></li>
+  <li><a href="#the-typeface">
+    The Typeface</a><br /></li>
+  <li><a href="#Mrs-Eaves">
+    Mrs Eaves</a><br /></li>
+  </ul>
+</nav>
+
+<h3> <a id="the-man">The Man </h3> </a>
+  <h3> <a id="the-typeface">The Typeface</h3> </a>
+    <h3> <a id="Mrs-Eaves">Mrs Eaves </h3> </a>
+
